@@ -42,3 +42,4 @@ These include the following:
             2. [**ANN with regularization & SGD**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/ann-from-scratch-sgd-regularization.ipynb) from scratch
             3. [**ANN with regularization, SGD & Dropout**](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/ann-from-scratch-sgd-reg-drop-out.ipynb) from scratch
             
+            
