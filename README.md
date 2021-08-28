@@ -29,12 +29,13 @@ These include the following:
             
       3. **Unsupervised ML from scratch** - Manual implementation of popular classical ML algorithms used for data exploration & pattern finding exercises. _These have been benchmarked against the available Scikit-Learn or relevant versions_. These include the following:
       
-            1. Principal Component Analysis (PCA) from scratch
-            2. K-Means Clustering from scratch
-            3. Density-Based Spatial Clustering of Applications with Noise (DBSCAN) from scratch
+            1. [Principal Component Analysis (PCA)](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Un-Supervised%20ML%20From%20Scratch/Dimensionality%20Reduction/pca-from-scratch.ipynb) from scratch
+            2. [K-Means Clustering](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Un-Supervised%20ML%20From%20Scratch/Clustering%20Techniques/k-means-clustering-from-scratch.ipynb) from scratch
+            3. [DBSCAN](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Un-Supervised%20ML%20From%20Scratch/Clustering%20Techniques/dbscan-from-scratch.ipynb) - (Density-Based Spatial Clustering of Applications with Noise) from scratch
             
       4. **Artificial Neural Networks (ANN) from scratch** - Manual implementation of deep neural networks with dynamic hyper-parameters as offered in the tensorflow packages. _These have been benchmarked against the available Tensorflow, Keras or relevant versions_. These include the following:
       
-            1. ANN with L-layers & SGD from scratch
-            2. ANN with regularization & SGD from scratch
-            3. ANN with regularization, SGD & Dropout from scratch
+            1. [ANN with L-layers & SGD](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/artificial-neural-network-from-scratch-l-layer.ipynb) from scratch
+            2. [ANN with regularization & SGD](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/ann-from-scratch-sgd-regularization.ipynb) from scratch
+            3. [ANN with regularization, SGD & Dropout](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/Artificial%20Neural%20Networks%20(ANN)%20from%20scratch/ann-from-scratch-sgd-reg-drop-out.ipynb) from scratch
+            
