@@ -17,7 +17,7 @@ These include the following:
       2. **Supervised ML from scratch** - Manual implementation of popular classical ML algorithms used for classification & regression. _These have been benchmarked against the available Scikit-Learn or relevant versions_. These include the following:  
       
             1. K-Nearest Neighbors (KNN) from scratch
-            2. Linear Regression (+Lasso +Ridge Regressions) from scratch
+            2. [Linear Regression](https://github.com/srikhetramohanty/Data-Science-Portfolio/blob/main/ML%20From%20Scratch/Supervised%20ML%20From%20Scratch/Generalised%20Linear%20Models%20(GLM)%20family/linear-regression-from-scratch.ipynb) (+Lasso +Ridge Regressions) from scratch
             3. Logistic Regression (with Stochastic Gradient Descent & Regularization) from scratch
             4. Decision Tree (~CART) for classification from scratch
             5. Bagging Ensemble for classification from scratch
